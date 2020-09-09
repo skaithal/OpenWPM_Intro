@@ -10,20 +10,20 @@ I used an open source tool OpenWPM (https://github.com/citp/OpenWPM) for visitin
 Please consult the instructions provided on the official Github page of OpenWPM (https://github.com/citp/OpenWPM) for further assistance.
 
 
-# Third-Party HTTP Requests
+## Third-Party HTTP Requests
+![http.png](https://github.com/skaithal/openWPM_intro/blob/master/plot_https.py)
+
+### Top-10 Third Party Domains (HTTP Requests)
 
 
-# Top-10 Third Party Domains (HTTP Requests)
+## Third-Party Cookies Requests
 
 
-# Third-Party Cookies Requests
+### Top-10 Third Party Domains (Cookies Requests)
 
 
-# Top-10 Third Party Domains (Cookies Requests)
+## Third-Party Javascript API Requests
 
 
-# Third-Party Javascript API Requests
-
-
-# Top-10 Third Party Domains (Javascript API Requests)
+### Top-10 Third Party Domains (Javascript API Requests)
 
